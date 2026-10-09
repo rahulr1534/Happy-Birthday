@@ -101,7 +101,7 @@ body {
     transition: all .5s ease-in-out;
 }
 
-#FromRexon {
+#FromRahul {
     margin-top: 30px;
     background-color: var(--color-text-pink);
     outline: none;
@@ -133,14 +133,14 @@ body {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-#FromRexon:hover {
+#FromRahul:hover {
     border-color: var(--color-heart);
     background-color: var(--color-heart);
     color: #fff;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-#FromRexon:hover svg {
+#FromRahul:hover svg {
     animation: rotateHeart 1s infinite linear;
 }
 
@@ -967,7 +967,7 @@ body {
         width: 200px;
     }
 
-    #FromRexon {
+    #FromRahul {
         margin-top: 10px;
         width: 200px;
     }

@@ -408,7 +408,7 @@
     animation: textAppear 1.2s cubic-bezier(0.23, 1, 0.32, 1) 6.8s forwards;
 }
 
-/* --- Cake Text Title (Happy 18th Birthday!) --- */
+/* --- Cake Text Title (Happy 23rd Birthday!) --- */
 .cakeText .cakeText-title {
     font-size: 45px;
     /* Large and prominent */
@@ -557,7 +557,7 @@
         transform: translate(-50%, -50%);
     }
 
-    /* --- Cake Text Title (Happy 18th Birthday!) --- */
+    /* --- Cake Text Title (Happy 23rd Birthday!) --- */
     .cakeText .cakeText-title {
         font-size: 36px;
         color: #8b0000;

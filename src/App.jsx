@@ -8,6 +8,7 @@ import Home from './pages/Home'
 import LoveLetter from './pages/LoveLetter'
 import Test from './pages/Test'
 import OpeningAnimation from './components/OpeningAnimation'
+import BackgroundMusic from './components/BackgroundMusic'
 
 const App = () => {
 
@@ -50,6 +51,9 @@ const App = () => {
       }
       {
         showContent && <RouterProvider router={MyRoute} />
+      }
+      {
+        showContent && <BackgroundMusic />
       }
     </>
   )
